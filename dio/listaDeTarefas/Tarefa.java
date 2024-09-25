@@ -16,6 +16,5 @@ public class Tarefa {
     public String toString() {
         return "Tarefa [descricao=" + descricao + "]";
     }
-
-    
+        
 }
