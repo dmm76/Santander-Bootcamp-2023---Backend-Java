@@ -68,7 +68,4 @@ public class CatalogoLivros {
 
         System.out.println(catalogoLivros.pesquisarPorTitulo("Livro 1"));
     }
-
-
-
 }
